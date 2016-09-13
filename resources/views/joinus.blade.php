@@ -28,7 +28,7 @@
   </div>
 
   <div class="jumbotron">
-    <h1>加入mmamm们</h1>
+    <h1>加入我们</h1>
     <p class="lead">下载报名表，填好再回来上传哦～</p>
     <p><a class="btn btn-lg btn-success" href="form.doc" role="button">下载报名表</a></p>
     <!-- <p><a class="btn btn-lg btn-success" href="#" role="button">提交报名表</a></p> -->
