@@ -3,10 +3,10 @@
 @section('stylesheet')
 <link href="css/jumbotron-narrow.css" rel="stylesheet">
 <link href="plugin/fileinput/css/fileinput.min.css" media="all" rel="stylesheet" type="text/css" />
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<!-- <script src="//cdn.bootcss.com/jquery/2.2.1/jquery.min.js"></script> -->
 <script src="plugin/fileinput/js/fileinput.min.js"></script>
 <script src="plugin/fileinput/js/locales/zh.js">
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script src="//cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 @endsection
 
 @section('title')
