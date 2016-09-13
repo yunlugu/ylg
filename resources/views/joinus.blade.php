@@ -3,10 +3,10 @@
 @section('stylesheet')
 <link href="css/jumbotron-narrow.css" rel="stylesheet">
 <link href="plugin/fileinput/css/fileinput.min.css" media="all" rel="stylesheet" type="text/css" />
-<!-- <script src="//cdn.bootcss.com/jquery/2.2.1/jquery.min.js"></script> -->
+<script src="//cdn.bootcss.com/jquery/2.2.1/jquery.min.js"></script>
 <script src="plugin/fileinput/js/fileinput.min.js"></script>
 <script src="plugin/fileinput/js/locales/zh.js">
-<script src="//cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="//cdn.bootcss.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 @endsection
 
 @section('title')
@@ -28,7 +28,7 @@
   </div>
 
   <div class="jumbotron">
-    <h1>加入我们</h1>
+    <h1>加入mmamm们</h1>
     <p class="lead">下载报名表，填好再回来上传哦～</p>
     <p><a class="btn btn-lg btn-success" href="form.doc" role="button">下载报名表</a></p>
     <!-- <p><a class="btn btn-lg btn-success" href="#" role="button">提交报名表</a></p> -->
