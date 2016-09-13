@@ -54,7 +54,7 @@ class JoinUsController extends Controller
           }
           // var_dump($filePath);
 
-          echo $originalName;
+          return view('joinus', ['status' => TRUE]);
         }
         else {
           echo "shit";

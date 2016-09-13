@@ -26,7 +26,13 @@
     </div>
 
   </div>
-
+  @if(isset($status))
+    @if($status == TRUE)
+    <div class="alert alert-success" role="alert">我们收到啦～耐心等待我们的面试通知吧</div>
+    @else
+    <div class="alert alert-danger" role="alert">传送途中出了点问题，再传一次试试？</div>
+    @endif
+  @endif
   <div class="jumbotron">
     <h1>加入我们</h1>
     <p class="lead">下载报名表，填好再回来上传哦～</p>
